@@ -24,15 +24,7 @@
 
 ## 📈 Actividad Reciente
 
-[![Actividad de GitHub](https://github-readme-activity-graph.vercel.app/graph?username=tu-usuario&theme=react-dark)](https://github.com/tu-usuario)
-
----
-
-## 🌟 Proyectos Destacados
-
-- 🔥 **[Nombre del Proyecto 1](https://github.com/tu-usuario/proyecto1)** – Breve descripción.
-- 🚀 **[Nombre del Proyecto 2](https://github.com/tu-usuario/proyecto2)** – Breve descripción.
-- 💡 **[Nombre del Proyecto 3](https://github.com/tu-usuario/proyecto3)** – Breve descripción.
+[![Actividad de GitHub](https://github-readme-activity-graph.vercel.app/graph?username=b33k33p33r&theme=react-dark)](https://github.com/b33k33p33r)
 
 ---
 
@@ -44,4 +36,3 @@
 
 ---
 
-💡 *Este README se actualiza automáticamente con mis estadísticas públicas de GitHub.*
