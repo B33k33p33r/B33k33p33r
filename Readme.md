@@ -1,10 +1,7 @@
 # ¡Hola, soy B33k33p33r! 👋
 
 🔭 Actualmente trabajando en **proyectos interesantes**  
-🌱 Aprendiendo **nuevas tecnologías**  
-💬 Pregúntame sobre **JavaScript, Python, React, etc.**  
-📫 Cómo contactarme: **tu-email@example.com**  
-⚡ Dato curioso: **Me encanta automatizar tareas aburridas**
+🌱 Aprendiendo **nuevas tecnologías**   
 
 ---
 
