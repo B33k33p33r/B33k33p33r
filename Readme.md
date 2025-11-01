@@ -11,11 +11,6 @@
 
 
 
-## 📈 Actividad Reciente
-
-[![Actividad de GitHub](https://github-readme-activity-graph.vercel.app/graph?username=b33k33p33r&theme=react-dark)](https://github.com/b33k33p33r)
-
-
 ## 📬 Conéctate conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
