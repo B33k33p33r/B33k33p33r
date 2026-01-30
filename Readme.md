@@ -62,9 +62,6 @@
   <a href="https://twitter.com/b33k33p33r" target="blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
   </a>
-  <a href="https://dev.to/TU_USUARIO" target="blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="devto" />
-  </a>
 </p>
 
 ---
