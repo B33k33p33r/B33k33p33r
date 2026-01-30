@@ -90,7 +90,8 @@
   <img src="https://img.shields.io/badge/Proxmox-A94442?style=for-the-badge&logo=proxmox&logoColor=white" alt="proxmox" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
   <img src="https://img.shields.io/badge/Hugging_Face-F39C12?style=for-the-badge&logo=huggingface&logoColor=white" alt="huggingface" />
-
+  <img src="https://img.shields.io/badge/Ensamblador-555555?style=for-the-badge&logo=assembly&logoColor=white" alt="ensamblador" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="cuda" /> 
 </p>
 
 ---
