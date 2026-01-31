@@ -81,12 +81,4 @@
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=B33k33p33r&theme=react-dark&hide_border=true" alt="B33k33p33r" />
-</p>
-
----
-
 <div
