@@ -12,48 +12,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=B33k33p33r&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B33k33p33r&layout=compact&theme=radical&langs_count=8" />
-</p>
-
----
-
 ## 🔥 Streak Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=B33k33p33r&theme=radical" alt="B33k33p33r" />
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B33k33p33r&layout=donut&theme=radical" alt="B33k33p33r" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=B33k33p33r&theme=react-dark&hide_border=true" alt="B33k33p33r" />
-</p>
-
----
-
-## 🌐 Socials
-
-<p align="center">
-  <a href="https://linkedin.com/in/TU_USUARIO" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="https://twitter.com/b33k33p33r" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
-  </a>
 </p>
 
 ---
@@ -84,6 +46,45 @@
   <img src="https://img.shields.io/badge/Hugging_Face-F39C12?style=for-the-badge&logo=huggingface&logoColor=white" alt="huggingface" />
   <img src="https://img.shields.io/badge/Ensamblador-555555?style=for-the-badge&logo=assembly&logoColor=white" alt="ensamblador" />
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="cuda" /> 
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=B33k33p33r&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B33k33p33r&layout=compact&theme=radical&langs_count=8" />
+</p>
+
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B33k33p33r&layout=donut&theme=radical" alt="B33k33p33r" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=B33k33p33r&theme=react-dark&hide_border=true" alt="B33k33p33r" />
+</p>
+
+---
+
+## 🌐 Socials
+
+<p align="center">
+  <a href="https://linkedin.com/in/TU_USUARIO" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://twitter.com/b33k33p33r" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
+  </a>
 </p>
 
 ---
