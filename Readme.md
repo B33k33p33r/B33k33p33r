@@ -57,7 +57,3 @@
   <img src="https://img.shields.io/badge/Ensamblador-555555?style=for-the-badge&logo=assembly&logoColor=white" alt="ensamblador" />
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="cuda" /> 
 </p>
-
----
-
-<div
