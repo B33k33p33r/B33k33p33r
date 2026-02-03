@@ -63,22 +63,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=B33k33p33r&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B33k33p33r&layout=compact&theme=radical&langs_count=8" />
-</p>
-
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B33k33p33r&layout=donut&theme=radical" alt="B33k33p33r" />
-</p>
-
----
-
 <div
